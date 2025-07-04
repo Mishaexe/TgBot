@@ -1,4 +1,7 @@
 language: java
+
 jdk:
- -oraclejdk21
-script: mvn clean install -DskipTests
+ - adoptium21
+
+script:
+ - mvn clean install -DskipTests
