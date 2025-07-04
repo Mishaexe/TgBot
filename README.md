@@ -1,0 +1,1 @@
+https://app.travis-ci.com/Mishaexe/TgBot.svg?token=57W5tQfbBbjWhkHWhNty&branch=master
